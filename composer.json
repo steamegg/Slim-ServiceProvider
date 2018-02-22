@@ -1,0 +1,14 @@
+{
+    "name": "steamegg/Slim-ServiceProvider",
+    "type": "library",
+    "description": "steamegg/Slim-ServiceProvider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "steamegg"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"steamegg\\Slim\\ServiceProvider\\": "src"}
+    }
+}
